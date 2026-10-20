@@ -8,5 +8,23 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Floor.unity
+    guid: aa9a5be21f1d43f469a3f6833846dad2
+  - enabled: 1
+    path: Assets/Scenes/Walls.unity
+    guid: e42147c682ab68044a7189b8586dc840
+  - enabled: 1
+    path: Assets/Scenes/Shelves.unity
+    guid: d2531b13df8edf04b93624d2f83e71a9
+  - enabled: 1
+    path: Assets/Scenes/TheDoors.unity
+    guid: c92cedc6e038f8246b7cfe5fac777802
+  - enabled: 1
+    path: Assets/Scenes/99.unity
+    guid: 485a9f4d362db504f91eee2332b4d93f
+  - enabled: 1
+    path: Assets/Scenes/Roof.unity
+    guid: 9eb3c141623207c46972a567f76464ff
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
