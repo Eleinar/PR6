@@ -480,7 +480,7 @@ MonoBehaviour:
   - key: 257
     mode: 1
     sceneName: Floor
-    sceneIndex: 99
+    sceneIndex: 1
   - key: 258
     mode: 1
     sceneName: Walls
